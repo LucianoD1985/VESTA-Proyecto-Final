@@ -6,9 +6,9 @@ Plataforma web de alquileres temporarios y residenciales que conecta a usuarios 
 
 | Servicio | URL |
 |---|---|
-| Frontend (Vercel) | https://TU-APP.vercel.app |
-| Backend API (Render) | https://TU-API.onrender.com |
-| Documentación Swagger | https://TU-API.onrender.com/api |
+| Frontend (Vercel) | https://proyecto-final-grupo-2.vercel.app/ |
+| Backend API (Render) | 	https://proyecto-final-grupo-2.onrender.com |
+| Documentación Swagger | https://proyecto-final-grupo-2.onrender.com/api |
 
 > ⏳ El backend corre en el plan gratuito de Render: la primera petición después de un rato de inactividad puede tardar ~50 segundos en responder.
 
